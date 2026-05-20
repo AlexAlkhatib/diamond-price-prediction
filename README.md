@@ -13,10 +13,10 @@ Pour améliorer la performance, plusieurs modèles de machine learning sont impl
 * **Ensemble Learning (moyenne ou stacking)**
 
 Le projet met l’accent sur :
-✔️ La préparation des données
-✔️ La comparaison des performances
-✔️ L’amélioration de la précision grâce aux modèles d’ensemble
-✔️ L’interprétation des résultats
+- ✔️ La préparation des données
+- ✔️ La comparaison des performances
+- ✔️ L’amélioration de la précision grâce aux modèles d’ensemble
+- ✔️ L’interprétation des résultats
 
 
 ## 📂 Dataset
